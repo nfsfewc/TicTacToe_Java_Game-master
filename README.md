@@ -3,7 +3,8 @@
 A simple and interactive **Tic Tac Toe** game built using **Java Swing**.  
 Enjoy a clean GUI with real-time score tracking, two-player support, and in-game instructions via the **Game Help** feature.
 
-![Uploading Screenshot 6_23_2025 10_42_03 PM.png…]()
+
+![Screenshot 6_23_2025 10_42_03 PM](https://github.com/user-attachments/assets/6d087d52-8e59-4c41-9dcc-67df8a04410c)
 
 
 ## ✨ Features
